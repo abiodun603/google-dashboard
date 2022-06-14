@@ -11,7 +11,7 @@ import { Chip } from '@mui/material';
 
 const columns = [
   { field: 'id', headerName: 'ID', width: 70 },
-  { field: 'message', headerName: 'Massage',  width: 900},
+  { field: 'message', headerName: 'message',  width: 900},
   { field: 'time', headerName: 'time', },
 ];
 
